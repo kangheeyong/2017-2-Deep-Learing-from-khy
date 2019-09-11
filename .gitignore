@@ -1,0 +1,15 @@
+
+~/jeiger/user2/ex_my_cuda/Graph_structure_basic_v2/resNet_v1/*
+~/jeiger/user2/ex_my_cuda/Graph_structure_basic_v2/resNet_v2/*
+~/jeiger/user2/ex_my_cuda/Graph_structure_basic_v2/resNet_v3/*
+~/jeiger/user2/ex_my_cuda/Graph_structure_basic_v2/resNet_v4/*
+~/jeiger/user2/ex_my_cuda/Graph_structure_basic_v2/resNet_v5/*
+~/jeiger/user2/ex_my_cuda/Graph_structure_basic_v2/resNet_v5_v1/*
+
+
+*.o
+*.jpg
+*.cktp.*
+*.png
+*.pickle.gzip
+

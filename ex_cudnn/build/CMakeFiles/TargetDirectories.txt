@@ -1,0 +1,3 @@
+/home/icrl/jeiger/user2/ex_cudnn/build/CMakeFiles/edit_cache.dir
+/home/icrl/jeiger/user2/ex_cudnn/build/CMakeFiles/rebuild_cache.dir
+/home/icrl/jeiger/user2/ex_cudnn/build/CMakeFiles/trainlenet.dir
